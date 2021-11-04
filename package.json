@@ -1,0 +1,23 @@
+{
+  "name": "Testing-Application",
+  "version": "1.0.0",
+  "description": "Hello",
+  "main": "index.js",
+  "scripts": {
+    "test": "testcafe chrome ./src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CCoates46/Testing-Application.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CCoates46/Testing-Application/issues"
+  },
+  "homepage": "https://github.com/CCoates46/Testing-Application#readme",
+  "dependencies": {
+    "testcafe": "^1.16.0"
+  }
+}
